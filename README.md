@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Foud Mohammed Ali</h1>
-<h3 align="center">A passionate frontend developer from Yemen</h3>
+<h3 align="center">I am a passionate and detail-oriented Software Engineer with a strong foundation in developing innovative solutions using modern technologies. With expertise in Python, JavaScript, Vue.js, and Flask, I specialize in building AI-powered applications, chatbots, and scalable web platforms. My projects, such as the UML-AI Generator and Agricultural Expert System, showcase my ability to leverage AI to solve real-world problems. I am fluent in both Arabic and English and thrive in collaborative environments where I can contribute to impactful projects. I am eager to bring my technical skills and creativity to a dynamic team.</h3>
 
 - 👨‍💻 All of my projects are available at [mfoud444.com](mfoud444.com)
 
